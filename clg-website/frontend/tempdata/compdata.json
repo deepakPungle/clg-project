@@ -1,0 +1,45 @@
+
+{
+    "hodData": [
+      {
+        "name": "P.B.Agrawal",
+        "department": "Computer Engineering",
+        "designation": "Head of Department",
+        "photoUrl": "../../images/photo.jpeg"
+      }
+    ],
+    "staffData": [
+      {
+        "name": "Ms.kale Sir",
+        "department": "Computer Engineering",
+        "designation": "Professor",
+        "photoUrl": "../../images/photo.jpeg"
+      },
+      {
+        "name": "Khirade Sir",
+        "department": "Electrical Engineering",
+        "designation": "Assistant Professor",
+        "photoUrl": "../../images/photo.jpeg"
+      },
+      {
+        "name": "Rathod Sir",
+        "department": "Computer Engineering",
+        "designation": "Lecturer",
+        "photoUrl": "../../images/photo.jpeg"
+      },
+      {
+        "name": "Ms.kale Sir",
+        "department": "Computer Engineering",
+        "designation": "Professor",
+        "photoUrl": "../../images/photo.jpeg"
+      }, 
+      {
+        "name": "Ms.kale Sir",
+        "department": "Computer Engineering",
+        "designation": "Professor",
+        "photoUrl": "../../images/photo.jpeg"
+      }
+      
+    ]
+  }
+  

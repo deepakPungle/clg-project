@@ -1,0 +1,117 @@
+.mt-10{
+    margin-top: 7rem;
+}
+.dropdown-menu a:hover {
+    background-color: lightblue;
+    color: darkblue;
+    /* Add any other styles you want to apply on hover */
+  }
+
+  
+  
+  .multi-color-bg {
+    background: linear-gradient(to bottom, #ff9933, #ffffff, #008000);
+    }
+
+    .dropdown:hover .dropdown-menu {
+      display: block;
+    }
+    @media (min-width: 768px) {
+      .header-container {
+        min-height: auto; /* Reset height for larger screens */
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+
+    .carousel-caption {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    
+    .carousel-caption h1 {
+      font-size: 3rem; /* Adjust font size as needed */
+    }
+    
+    .carousel-caption p {
+      font-size: 1.5rem; /* Adjust font size as needed */
+    }
+    
+    /* Media queries for responsive styling */
+    @media (max-width: 768px) {
+      .carousel-caption h1 {
+        font-size: 1.2rem;
+      }
+    
+      .carousel-caption p {
+        font-size: 0.5rem;
+      }
+    }
+    
+    @media (max-width: 576px) {
+      .carousel-caption h1 {
+        display: none;
+      }
+    
+      .carousel-caption p {
+        display: none;
+      }
+    }
+    .msbte-logo {
+      width: 100px; /* Default size for laptop */
+    }
+    
+    @media (max-width: 992px) {
+      .msbte-logo {
+        width: 60px; /* Tablet size */
+      }
+    }
+    
+    @media (max-width: 576px) {
+      .msbte-logo {
+        width: 35px; /* Mobile size */
+      }
+    }
+
+    @media (max-width: 576px) {
+      .header-college-name {
+        margin-top: 6px;
+        font-size: 1rem;
+      }
+    }
+
+    @media (max-width: 992px) {
+      .header-college-name {
+        font-size: 1.5rem;
+      }
+    }
+    
+
+
+
+
+
+ 
+    
+    .header-college-name {
+      font-style: oblique;
+    }
+    
+    .college-info {
+      font-size: 13px;
+      font-weight: bold;
+    }
+    
+    .college-address {
+      font-size: 13px;
+      font-weight: bold;
+    }
+    
+    .location-icon {
+      font-size: 40px;
+    }
+    
